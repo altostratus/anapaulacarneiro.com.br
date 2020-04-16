@@ -1,8 +1,7 @@
 ---
 title: Home
 description: ''
-images:
-- ''
+images: ["terapia.jpg"]
 weight: "1"
 menu:
   main:

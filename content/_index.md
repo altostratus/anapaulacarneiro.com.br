@@ -1,11 +1,13 @@
 ---
 title: Home
 description: ''
-images: ["terapia.jpg"]
+images:
+- terapia.jpg
 weight: "1"
 menu:
   main:
     weight: 1
+draft: true
 
 ---
 # Psicólogo Ana Paula Carneiro

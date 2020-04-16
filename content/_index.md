@@ -2,7 +2,7 @@
 title: Home
 description: ''
 images:
-- terapia.jpg
+- undraw_freelancer_b0my.svg
 weight: "1"
 menu:
   main:

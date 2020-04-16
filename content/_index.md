@@ -2,7 +2,7 @@
 title: Home
 description: ''
 images:
-- Terapia para Adolescentes em Belo Horizonte.jpg
+- Terapia.jpg
 weight: "1"
 menu:
   main:

@@ -7,7 +7,6 @@ weight: "1"
 menu:
   main:
     weight: 1
-draft: true
 
 ---
 # Psicólogo Ana Paula Carneiro

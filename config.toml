@@ -1,4 +1,4 @@
-#baseurl = "/"
+baseurl = "/"
 title = "Terrassa"
 author = "Daniel Zaragoza (Danielkvist)"
 googleAnalytics = ""
@@ -6,8 +6,8 @@ defaultContentLanguage = "en"
 language = "en-US"
 paginate = 3
 
-theme = "terrassa"
-#themesDir = "../.." # Not necessary on production sites
+theme = "hugo-terrassa-theme"
+themesDir = "../.." # Not necessary on production sites
 
 [params]
     description = "Terrassa is a simple, fast and responsive theme for Hugo with a strong focus on accessibility made from scratch."

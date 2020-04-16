@@ -2,7 +2,7 @@
 title: Home
 description: ''
 images:
-- undraw_freelancer_b0my.svg
+- Terapia para Adolescentes em Belo Horizonte.jpg
 weight: "1"
 menu:
   main:

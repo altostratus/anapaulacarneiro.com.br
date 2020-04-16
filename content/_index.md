@@ -2,7 +2,7 @@
 title: Home
 description: ''
 images:
-- Terapia.jpg
+- ''
 weight: "1"
 menu:
   main:

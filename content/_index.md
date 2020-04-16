@@ -1,8 +1,7 @@
 ---
 title: Home
 description: ''
-images:
-- undraw_freelancer_b0my.svg
+images: "undraw_freelancer_b0my.svg"
 weight: "1"
 menu:
   main:

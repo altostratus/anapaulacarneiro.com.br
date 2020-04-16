@@ -1,7 +1,7 @@
 ---
 title: "Home"
 description: ""
-images: ["terapia.jpg"]
+images: ["undraw_freelancer_b0my.svg"]
 draft: false
 menu: main
 weight: 1
